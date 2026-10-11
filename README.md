@@ -88,7 +88,10 @@ Vercel에서 해당 GitHub 저장소를 가져온 뒤 다음 설정을 사용합
 - Output directory: `dist`
 - Environment variables: 없음
 
-현재 작업은 **업로드·배포 가능한 소스 준비**까지입니다. 원격 저장소 생성이나 실제 Vercel 배포는 수행하지 않았습니다.
+- 공개 저장소: [maeeoong/ieum-working-prototype](https://github.com/maeeoong/ieum-working-prototype)
+- 체험 주소: [이어봄 Working Prototype](https://ieum-working-prototype.vercel.app/)
+- 2026-10-12 배포 완료. 로그인 없는 HTTP 200 응답과 공개 사이트의 출근·퇴근 중단 및 복귀 동작을 확인했습니다.
+- GitHub 소스를 다시 내려받아 원본 일치, 자동 테스트 11개, 배포 파일 검사를 확인했습니다.
 
 ## 구조
 
